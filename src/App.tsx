@@ -19,7 +19,7 @@ function App() {
       grabCursor={true}
       centeredSlides={true}
       coverflowEffect={{
-        rotate: 30,
+        rotate: 20,
         stretch: 10,
         depth: 100,
         modifier: 2,
